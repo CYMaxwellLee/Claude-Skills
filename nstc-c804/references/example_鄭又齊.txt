@@ -1,0 +1,147 @@
+大專學生研究計畫指導教授初評意見表
+
+一、學生潛力評估
+
+I am glad to have this opportunity to write this letter in support of
+Mr. Yu-Chi Cheng (鄭又齊) application to the undergraduate research
+project supported by the National Science and Technology Council
+(國科會大專生研究計畫). As a distinguished student in the Department of
+Computer Science and Information Engineering at National Taiwan
+University, he enrolled in my course, “Deep Reinforcement Learning,”
+where he earned an “A+” for his diligent coursework and commendable
+academic performance. As his primary research advisor, I have seen his
+development into a dedicated and independent researcher in the area of
+deep learning (DL), reinforcement learning (RL), robotics, and computer
+vision (CV). He is one of the top-ranked students in his class, and a
+key member in our research team. During the past year, Yu-Chi has worked
+closely with me on a weekly basis. Yu-Chi impressed me with his
+intellectual curiosity, adventurous spirit, and passion for conducting
+research. He has already completed most of the relevant prerequisite
+studies in these areas, and has also developed several projects,
+including residual learning models for cross-embodiment robotic tasks, a
+Vision Transformer implementation in CUDA C++, and a lightweight
+reinforcement learning agent for real-time strategy games. It is very
+rare for a third-year student to accomplish such an intensive training
+schedule in a short period of time. In the following months, Yu-Chi will
+continue to dive further into the realm of robotic manipulation,
+imitation learning (IL), and sim-to-real transfer for his research on
+bimanual robotic dexterous manipulations. Given his background and
+experience, I am confident that he will be an excellent candidate for
+this undergraduate research project.
+
+Yu-Chi has been an outstanding student and is always willing to offer
+help to his peers. Yu-Chi’s dedication to achieving excellence is
+reflected in his academic record, maintaining a cumulative GPA of
+4.23/4.30, ranking 7th out of 144 students in his freshman year in the
+Department of Computer Science and Information Engineering. He has
+consistently been recognized for his academic excellence across all
+three years of study. His performance in major computer science and AI
+courses has earned him outstanding straight “A+” grades in courses such
+as Machine Learning, Deep Reinforcement Learning, Parallel Programming,
+Algorithm Design and Analysis, Data Structures and Algorithms, Computer
+Architecture, and Operating Systems. Based on my experience, I would
+rank him among the top 5% of students I have ever encountered.
+
+Outside of his academic work, Yu-Chi is an enthusiastic learner who has
+undertaken various research internships, competitions, and self-directed
+projects. He completed a Summer Internship at Academia Sinica in the
+Reinforcement Learning and Games Lab (July–November 2025), where he
+gained valuable hands-on research experience. Notably, he achieved 2nd
+place in the Open Division and 3rd place in the Efficient Agent Division
+at the NeurIPS 2025 MindGames Challenge, demonstrating exceptional
+competence in reinforcement learning and AI agent design. He also ranked
+7th in the AI CUP 2025 Medical Speech Sensitive Personal Data
+Recognition competition. Additionally, Yu-Chi completed a QA/Software
+Developer internship at SIGONO (July–August 2024) and participated in
+the Global Game Jam 2025 as a designer and programmer. He has been able
+to balance his academic, research, and extracurricular activities
+effectively and efficiently, which demonstrates excellent time
+management skills.
+
+If the undergraduate research project supported by the National Science
+and Technology Council is seeking superior candidates with a record of
+achievement, Yu-Chi is an excellent choice. He plans to pursue advanced
+studies, and has consistently demonstrated an ability to rise to any
+challenge that he must face. I am confident that he will benefit from
+the prize, and continue to engage in cutting-edge research works in the
+future academic career.
+
+To conclude, I would like to restate my strong recommendation for
+Yu-Chi. Based on my personal observation of his research ethic and his
+engaging personality, I recommend him for the undergraduate research
+project supported by the National Science and Technology Council (NSTC)
+without any reservation. If you have any further questions regarding
+Yu-Chi’s capacity and ability, please do not hesitate to contact me.
+
+二、對學生所提研究計畫內容之評述
+
+鄭又齊同學之大專生研究計畫之資源提供與經驗指導
+
+鄭又齊同學所提之計畫為「Research on Bimanual Robotic Dexterous
+Manipulations」，鄭又齊同學已經與本人詳細討論過計畫時程、研究方法、及實作規劃，並早已開始熟讀相關之研究論文。由於本人於國立臺灣大學所領導之研究團隊已有相當充足之「深度學習與電腦視覺」、「機器學習」、「深度增強式學習」、「智慧型機器人」、「平行程式設計」、以及「電腦輔助設計系統設計」的研究資源與經驗，已於前數年獲得「2024
+The Third Place at AMD Pervasive AI Developer Contest: Robotics AI
+Track」、「2024 Best Solution Award (1st Place) at Small Object
+Detection Challenge for Spotting Birds held by MVA 2023」、「2020 NVIDIA
+AI at the Edge Challenge 世界第二名」、「2018 NVIDIA Jetson Robotics
+Challenge 世界冠軍」、「2018 ECCV Person In Context Challenge
+世界第二名」、「2016 NVIDIA Embedded Intelligent Robotics Challenge
+全國冠軍」。本人領導的研究團隊專注的研究領域為發展智慧型機器人跨領域技術整合，包含「1.
+機器學習與電腦視覺 (Machine Learning and Computer Vision)」、「2.
+深度增強式學習 (Deep Reinforcement Learning)」、「3. 數位孿生 (Digital
+Twins)」、「4. 平行計算與平行處理系統 (Parallel Computing and Parallel
+Processing Systems)」、「5. 智慧型機器人 (Intelligent
+Robotics)」等。相關研究整合深度學習、智慧型機器人、平行計算之最新技術，發展創新方法，於
+2018~2026 年數年間發表多篇論文於國際最頂尖之
+AI、電腦視覺、機器人、硬體設計等相關期刊及研討會，包含
+NeurIPS、ICLR、ICML、AAMAS、CVPR、ECCV、BMVC、WACV、IJCAI、CoRL、ICRA、IROS、ICCD、DAC、ASP-DAC、GTC、ACM
+TELO、IEEE TPAMI、JMLR、IEEE TCAD 等。同時亦有多篇論文投稿至 2025~2026
+年的 ICML、CVPR、ICCV、IROS、ICRA 研討會，及 TPAMI、JMLR、JAAMAS
+等期刊。研究團隊整體之研究能量非常豐沛。本實驗室能夠提供充分的 GPU
+運算伺服器及雙臂機器手臂硬體設備（包含 UR5
+機器手臂搭配靈巧手）給予鄭又齊同學進行研究使用、並具備有相當充足的國網中心雲端運算資源。相信鄭又齊同學的大專生專題研究計畫能夠順利進行，其結果預計投稿於頂尖
+AI、機器學習、電腦視覺、或機器人相關頂尖國際研討會。
+
+鄭又齊同學之大專生研究計畫背景概述
+
+鄭又齊同學目前就讀於國立臺灣大學資訊工程學系三年級，接下來的一年將在李濬屹教授的指導下，進行一項關於雙手靈巧機器人操作
+(Bimanual Robotic Dexterous Manipulations)
+的研究計畫。具備五指靈巧手的雙臂機器人操作代表了機器人操作中最具挑戰性的場景之一，需要協調兩個高度關節化的末端執行器並維持穩定的接觸互動。與平行夾爪抓取或單臂操作不同，任何一隻手的微小偏差都可能破壞接觸穩定性、違反運動學約束或影響長期規劃。此外，為五指雙臂系統獲取多樣化、高品質的真實世界示範數據仍然相當昂貴且困難。隨著模仿學習方法的進步以及可用數據集的擴展，端到端的學習型機器人模型已展現出比傳統分析方法更靈活且穩健的能力。近期，研究焦點已轉向雙臂操作，泛化能力也受到越來越多的重視。在此進展的推動下，又齊計畫探索雙臂靈巧手操作這一新興場景，並開發一個能達到高性能的模型。
+
+鄭又齊同學之大專生研究計畫之預期目標
+
+鄭又齊同學的研究計畫最終目標在提出一個層次化框架，將雙臂靈巧操作分解為三個層次：(1)
+高層錨點規劃器 (Anchor Planner)、(2) 低層接觸感知控制器 (Action
+Controller)、以及 (3) 殘差精煉器 (Residual
+Refiner)。在數據生成方面，又齊計畫使用類似 RoboTwin 2.0 的 MLLM
+驅動管線進行合成數據生成，涵蓋五類雙臂任務，並透過五個軸向的域隨機化進行數據增強。在模型設計方面，高層規劃器使用
+DiT
+風格區塊預測雙臂錨點關鍵姿態序列；低層控制器透過平行解碼生成連續動作追蹤錨點，同時對接觸段加權以強化接觸感知能力；殘差精煉器在模型預測發生接觸時啟動，預測有界的增量動作以修正微小誤差。又齊計畫先在
+Isaac Gym
+模擬環境中分階段訓練各模組，再整合評估完整系統的任務成功率、延遲與路徑長度。若模擬訓練成功，將進一步以少量真實軋跡微調低層模組，並部署於實體
+UR5 機器手臂搭配靈巧手進行驗證。本研究的成果將投稿至頂尖國際會議如
+ICML、CVPR、ICCV 或 IROS
+2027，使又齊能夠學習成為一個具備國際視野的研究者。
+
+三、指導方式
+
+計畫執行期間，本人會親自指導又齊研究方向，論文閱讀及寫作，以及探討最前沿相關技術，並同時請在機器人操作及深度學習研究領域的校外專家和校內研究生指導又齊相關技術，並加強專案開發所需要的技巧以及規畫整體系統架構的細節。另外，每週預訂會與又齊進行會談，根據他遇到的困難給予修正方向。並且督促他閱讀論文並每兩周於實驗室的
+Meeting
+發表、討論。希望藉由上述的方式，增強他的實作能力，和與他人共同開發專案時的合作技巧，讓他日後進入業界或學術界後能夠有所貢獻，也為國家提升競爭力。
+
+預期指導項目總結如下：
+
+-   機器人靈巧操作與深度學習之概念與程式撰寫
+
+-   雙臂機器人操作之模型設計與層次化架構
+
+-   模仿學習與殘差增強式學習之技術與論文探討
+
+-   合成數據生成、域隨機化、與模擬到真實遷移之概念與實作細節
+
+-   論文之撰寫與投稿 (預期會議：CVPR 2027、ICML 2027、IROS 2027等)
+
+四、本人同意指導學生瞭解並遵守執行計畫須符合學術倫理及研究倫理規範。
+
+指導教授簽名：
+
+  2026 年 2 月 22 日
