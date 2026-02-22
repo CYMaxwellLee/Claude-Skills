@@ -1,0 +1,78 @@
+===================================================================
+推薦信範例：陳彥廷 (Yen-Ting Chen)
+申請項目：補助國內研究生出席國際學術會議 (NSTC Graduate Student International Conference Travel Grant)
+會議：CVPR 2026
+日期：Feb. 22, 2026
+===================================================================
+
+LETTER STRUCTURE (9 body paragraphs):
+
+PARAGRAPH 1 - Introduction & Purpose:
+- Student name (English + Chinese), application to [grant name]
+- Advisor relationship at NTU CSIE
+- Key highlight: first author of accepted paper at [conference]
+- Conference full name + acronym
+- Wishes to attend in person
+- Duration of mentorship + general praise
+
+PARAGRAPH 2 - Academic Background:
+- Undergraduate institution, department
+- Key awards (highlighted in red bold): 梅貽琦獎章 Dr. Mei Yi-Chi Memorial Prize
+- Graduation honors
+- Extracurricular: DIT Robotics, Eurobot 5th place globally 2023
+- Transition from mechanical engineering to computer science
+
+PARAGRAPH 3 - Research at NTU (Prior Work):
+- Research focus area (bold)
+- Previously published paper: title (red bold, in quotes), venue (bold), location, date
+- Technical details of that paper
+- Presentation experience
+
+PARAGRAPH 4 - Main Paper (Conference Paper):
+- Transition sentence from prior work
+- Paper title (red bold, in quotes)
+- Technical problem addressed
+- Novel contributions
+- Experimental results
+- Conference venue: city, state, country, month year
+- Plans to attend
+
+PARAGRAPH 5 - Conference Attendance Benefits:
+- Value of in-person attendance
+- First-author presenter opportunities
+- Conference prestige and networking
+
+PARAGRAPH 6 - Personal Qualities:
+- Self-motivated
+- Technical skills (programming languages, tools)
+- Communication abilities
+- Team collaboration
+- Cross-discipline transition
+
+PARAGRAPH 7 - Summary:
+- Ideal candidate for [grant name]
+- Research contributions + track record
+- Benefit to Taiwan's research community
+- Confidence statement
+
+PARAGRAPH 8 - Grant Alignment:
+- [Grant name] aims to support...
+- Student is excellent choice
+- Future plans (Ph.D.)
+- Confidence in continued research
+
+PARAGRAPH 9 - Conclusion:
+- Full support statement
+- Recommend for [grant name] (bold) without reservation
+- Contact information reference
+
+FORMATTING NOTES:
+- Red bold (color #941100): Conference name+year (e.g., "CVPR 2026"), paper titles, key awards
+- Regular bold: Grant name, venue names, research area descriptions
+- Chinese text uses 標楷體-繁 font (via eastAsia attribute)
+- English text uses Times Roman (body) / Times New Roman (header/footer)
+- Font size: 22 half-points (11pt) for body, 21 half-points for header
+- Line spacing: 312 (1.3x) for body paragraphs
+- Justified alignment throughout
+- NTU logo in header (embedded image)
+- Date right-aligned with superscript ordinal (e.g., 22nd)
